@@ -18,6 +18,7 @@ The scope of data science topics I am interested in are
 * Data Science for Health Care
 * Cloud Computing
 * Deep Learning
+* Modeling and Simulation
 * Data Science for Financial Markets
 
 
