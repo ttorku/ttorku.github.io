@@ -3,38 +3,25 @@ permalink: /teaching/
 title: "Teaching"
 ---
 
-Research plays a central role in my teaching as students improve their
-analytical skills and master the tools of data analysis through hands-on
-experience. I have taught undergraduate courses on political violence and
-statistical methodology. While at UNC, I taught the graduate statistics lab for
-Advanced Topics in Political Data Science, where my work was recognized by the
-Political Science Department's Earle Wallace Award for Graduate Student
-Teaching. I also served as a teaching assistant for courses in international
-relations and American politics at UNC, in addition to the ICPSR Summer Program
-where I was a teaching assistant for a course on Bayesian modeling in the social
-sciences. I am also a
-[certified instructor](https://carpentries.org/instructors/#jayrobwilliams) with
-[The Carpentries](https://carpentries.org/), which develops evidence-based
-methods for teaching "essential data and computational skills for conducting
-efficient, open, and reproducible research."
+Teaching is both a skill and  an art. I enjoy impacting knowledge to people. I have been teaching introductory 
+Mathematics prescribed courses in University Studies, [MTSU](https://www.mtsu.edu/faculty/thomas-kofi-torku) since Fall 2016.  The courses include:
+* [Math 1010 Mathematics for General Studies](https://www.mtsu.edu/math/course-materials.php)
+* [Math 1530 Applied Statistics](https://www.mtsu.edu/math/course-materials.php)
+* [Math 1710 College Algebra](https://www.mtsu.edu/math/course-materials.php)
+
+## Fall 2022 Courses
+-  [Math 1010](https://pipeline.mtsu.edu/ssb/twbkwbis.P_GenMenu%3Fname=bmenu.P_FacMainMnu)
+
+## Fall Data Science BootCamp Instruction
+* Remote, organized by [Muzedata](https://www.muzedata.com/) and [DLYA](https://www.dlya.org/)
+    * Co-instructed the basics of data science to over 150 students
+    * Demonstrated the basics of Python Programming Language to students 
+    * Supervised Capstone project
+* Teaching materials and code can be found here [BootCamp](https://github.com/ttorku/Data-Science-Bootcamp-2022)
+
+## Spring 2023 Courses
+-  [Math 1010](https://www.mtsu.edu/math/course-materials.php)
+-  [Math 1710](https://www.mtsu.edu/math/course-materials.php)
 
 
-You can view my teaching portfolio [here](/files/pdf/teaching/Portfolio.pdf).
-You can find a selection of my teaching materials, including all of the labs
-from Advanced Topics in Political Data Science, [here](/teaching-materials).
 
-## Washington University in St. Louis
-- Pol Sci 3090: The Scientific Study of Civil War (Spring 2020)
-    - [Syllabus](/files/pdf/teaching/PS 3090 Syllabus.pdf)
-- Pol Sci 3171: International Conflict Management & Resolution (Fall 2019)
-    - [Syllabus](/files/pdf/teaching/PS 3171 Syllabus.pdf)
-
-## The University of North Carolina at Chapel Hill
-- Poli 281: Quantitative Research in Political Science (Spring 2019)
-    - [Syllabus](/files/pdf/teaching/POLI 281 Syllabus.pdf)
-- Poli 891: Lab for Advanced Topics in Political Data Science (Fall 2017, Fall 2018)
-    - [Syllabus](/files/pdf/teaching/POLI 891 Syllabus.pdf)
-
-## ICPSR Summer Program
-- Introduction to Applied Bayesian Modeling (Summer 2017)
-    - [Syllabus](/files/pdf/teaching/bayes2017.pdf)

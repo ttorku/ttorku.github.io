@@ -8,23 +8,16 @@ redirect_from:
   - /about.html
 ---
 
-Welcome! I am a data scientist applying machine learning tools and causal
-inference techniques to remote sensing data. I am also an affiliated
-researcher with the [Data-driven Analysis of Peace Project](https://dapp-lab.org)
-and a research collaborator with the 
-[Research on International Policy Implementation Lab](https://bridgingthegapproject.org/ripil).
+-----
+My name is Mr. Thomas Torku, a Ph.D. computational science candidate at Middle Tennessee State University [MTSU](https://www.mtsu.edu/), USA (United States of America). As a data scientist and computational researcher, I am keenly interested in disease modeling which includes epidemic models, stochastic modeling, quantitative analysis, big data analysis and cloud computing. I work under the supervision of [Prof. Abdul Khaliq](https://www.mtsu.edu/faculty/akhaliq/). I teach for the University Studies at MTSU (Middle Tennessee State University): College Algebra and Math for General Studies. Making an impact on people's lives is one of my core values. During Fall 2022, I co-instructed various students across Africa for a 12-week Data Science Boothcamp organized by [Muzedata](https://www.muzedata.com/) and [DLYA](https://www.dlya.org/), where over 150 students were exposed to fundamentals in data science using Python. Due to my desire to make greater impact in the field of data science, I landed a summer internship at [JPMorgan Chase](https://www.jpmorganchase.com/). During the internship I worked with large datasets, built prediction models, and horned in on my presentation skills. 
 
-I earned my Ph.D in Political Science from the
-[University *of* North Carolina *at* Chapel Hill](https://www.unc.edu) and my
-B.A. in Political Science from [Haverford College](https://www.haverford.edu).
-My academic work has been [published](publications) or is forthcoming in
-*International Studies Quarterly*, *Conflict Management and Peace Science*,
-*Political Science Research and Methods*, and *PS: Political Science & Politics*,
-among other outlets. This [research](research) explores the causes and
-consequences of political violence using a broad variety of methods such as
-latent variable models, geospatial analysis, and big data. While primarily
-focused on civil conflict, it also examines contentious political phenomena
-including terrorism and economic statecraft, and develops new measures of
-institutions in international relations. I have [teaching](teaching) experience
-in both quantitative methodology and international relations, and am a certified
-instructor with [The Carpentries](https://carpentries.org).
+Research
+====
+The scope of data science topics I am interested in are
+* Data Science for Climate Change
+* Data Science for Health Care
+* Cloud Computing
+* Deep Learning
+* Data Science for Financial Markets
+
+
