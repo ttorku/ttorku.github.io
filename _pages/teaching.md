@@ -23,10 +23,11 @@ Mathematics prescribed courses in University Studies, [MTSU](https://www.mtsu.ed
 -  [Math 1010](https://www.mtsu.edu/math/course-materials.php)
 * I am teaching two sections of this course
 * [Math 1010 K02 Syllabus](/1010_Notes/K02_Syllabus.docx)
-  * [Section 1.1 Inductive and Deductive Reasoning](/1010_Notes/ch1/1.1 notes.docx) 
-  * [Section 1.2 Inductive Reasoning Using Number Patterns ](/1010_Notes/ch1/1.2 notes.docx) 
-  * [Section 1.3 Strategies for Problem Solving](/1010_Notes/ch1/1.3 notes.docx) 
-  * [Section 1.4 Calculating, Estimating and Graphs](/1010_Notes/ch1/1.2 notes.docx) 
+  * [Chapter 1 Problem Solving](/1010_Notes/ch1/)  
+    * [Section 1.1 Inductive and Deductive Reasoning](/1010_Notes/ch1/1.1 notes.docx) 
+    * [Section 1.2 Inductive Reasoning Using Number Patterns ](/1010_Notes/ch1/1.2 notes.docx) 
+    * [Section 1.3 Strategies for Problem Solving](/1010_Notes/ch1/1.3 notes.docx) 
+    * [Section 1.4 Calculating, Estimating and Graphs](/1010_Notes/ch1/1.4 notes.docx) 
 
 -  [Math 1710](https://www.mtsu.edu/math/course-materials.php)
 
