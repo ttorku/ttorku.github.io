@@ -21,6 +21,9 @@ Mathematics prescribed courses in University Studies, [MTSU](https://www.mtsu.ed
 
 ## Spring 2023 Courses
 -  [Math 1010](https://www.mtsu.edu/math/course-materials.php)
+    I am teaching two sections of this course
+    -[Math 1010 K02 Syllabus](/1010_Notes/K02_Syllabus.docx) 
+
 -  [Math 1710](https://www.mtsu.edu/math/course-materials.php)
 
 
