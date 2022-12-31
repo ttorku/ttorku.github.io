@@ -11,4 +11,3 @@ redirect_from:
 
 You can download a PDF copy of my Resume [here](/files/pdf/Thomas_Resume.pdf). 
 
-This is gives more information about me.
