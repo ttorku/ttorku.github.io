@@ -12,8 +12,8 @@ main:
   - title: "Publications"
     url: /publications/
 
- # - title: "Posts"
- #   url: /posts/
+  - title: "Conferences"
+    url: /conferences/
   
   - title: "Awards"
     url: /award/
