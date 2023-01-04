@@ -11,7 +11,7 @@ author_profile: true
 
 * February 2022 Webinar
   * King Fahd University of Petroleum (KFUPM), Saudi Arabia
-    * [Virtual Speaker](https://www.linkedin.com/in/thomas-kofi-torku-912739a8/recent-activity/shares/)
+    * [Virtual Speaker](/files/pdf/kfupm.jpeg)
 
 * April 2021 Scholar's Week
   * Middle Tennessee State University － Murfreesboro, TN
