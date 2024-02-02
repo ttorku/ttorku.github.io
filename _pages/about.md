@@ -9,16 +9,10 @@ redirect_from:
 ---
 
 -----
-My name is Dr. Thomas Torku; I defended my doctoral dissertation on computational and data science at the Middle Tennessee State University [MTSU](https://www.mtsu.edu/), USA (United States of America). As a data scientist and computational researcher, I am keenly interested in disease modeling, including epidemic models, stochastic modeling, quantitative analysis, big data analysis, and cloud computing. I work under the supervision of [Prof. Abdul Khaliq](https://www.mtsu.edu/faculty/akhaliq/). As a faculty member in the University Studies department at MTSU (Middle Tennessee State University), I teach College Algebra and Math for General Studies. Making an impact on people's lives is one of my core values. During Fall 2022, I co-instructed various students across Africa for a 12-week Data Science Bootcamp organized by [Muzedata](https://www.muzedata.com/) and [DLYA](https://www.dlya.org/), where over 150 students were exposed to fundamentals in data science using Python. Due to my desire to make a greater impact in data science, I landed a summer internship at [JPMorgan Chase](https://www.jpmorganchase.com/). During the internship, I worked with large datasets, built predictive models, and honed in on my presentation skills. 
+Greetings from Dr. Thomas Torku. My academic journey, crowned with a Ph.D. in Computational Science, has led me to a dynamic career where I excel as a Quantitative Analyst Associate  Sr. at [JPMorgan Chase & Co.]((https://www.jpmorganchase.com/))—the most prominent bank in the U.S. and the world leader in market capitalization. The challenge of developing advanced AI/ML models is at the core of my role. This pursuit bolsters operational efficiency and significantly improves decision-making capabilities. Before joining the ranks at JPMorgan, my career was steeped in academia, with a substantial seven-year tenure as a Lecturer at Middle Tennessee State University [(MTSU)](https://www.mtsu.edu/), USA (United States of America).  My responsibilities included educating students in introductory Mathematics courses in the University Studies department. I further enriched my teaching portfolio by co-instructing a data science boot camp, where I had the privilege of shepherding students through the intricacies of data science, acquainting them with Python programming, and mentoring them through their capstone projects, which has impacted over 150 students.
 
-Research
-====
-The scope of data science topics I am interested in are
-* Data Science for Climate Change
-* Data Science for Health Care
-* Cloud Computing
-* Deep Learning
-* Modeling and Simulation
-* Data Science for Financial Markets
+
+
+
 
 
