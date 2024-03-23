@@ -16,7 +16,7 @@ Mathematics prescribed courses in University Studies, [MTSU](https://www.mtsu.ed
 * Remote, organized by [Muzedata](https://www.muzedata.com/) and [DLYA](https://www.dlya.org/)
     * Co-instructed the basics of data science to over 150 students
     * Demonstrated the basics of Python Programming Language to students 
-    * Supervised Capstone project
+    * Supervised capstone projects
 * Teaching materials and code can be found here [BootCamp](https://github.com/ttorku/Data-Science-Bootcamp-2022)
 
 ## Spring 2023 Courses

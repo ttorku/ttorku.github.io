@@ -20,7 +20,7 @@ territorial conquest, and communal violence in fragile settings.
 My other main research agenda uses advanced methods to develop new measures of
 institutions. One project uses Bayesian item response theory to measure the
 strength of peace agreements as a latent variable and free researchers from
-post-treatment bias caused by using the duration of agreements as a proxy for
+post-treatment bias caused by the duration of agreements as a proxy for
 their strength. In others, I apply unsupervised learning techniques to over a
 billion observations of product-level international trade data to measure
 economic interdependence and illicit economic exchange.
